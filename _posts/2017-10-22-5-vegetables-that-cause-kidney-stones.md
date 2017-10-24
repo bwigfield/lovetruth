@@ -3,9 +3,8 @@ title: 5 Vegetables that Cause Kidney Stones
 layout: post
 ---
 
-div.image {
-   https://static.pexels.com/photos/33307/carrot-kale-walnuts-tomatoes.jpg);
-}​
+![](   https://static.pexels.com/photos/33307/carrot-kale-walnuts-tomatoes.jpg)
+
 Chemicals. They're in everything! Can you imagine my horror when I discovered oxalic acid, the main ingredient in my heaby duty bar-keeper's friend cleaner, is found in MANY common vegetables I had been ingesting on a daily basis? Eugh. It is toxic, a carcinogen, causes kidney stones, and you are probably eating it right now. Luckily, I'm here to help you avoid it entirely. Do not eat these vegetables, or else you will get kidney stones and cancer. And die.
 
 
