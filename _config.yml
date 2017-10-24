@@ -4,7 +4,6 @@ description: higher consciousness in a modern world
 baseurl: ''
 url: ''
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 destination: /usr/share/nginx/html/
@@ -14,3 +13,8 @@ defaults:
       type: posts
     values:
       layout: post
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: default

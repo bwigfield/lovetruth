@@ -2,7 +2,8 @@
 title: 10 reasons why Brandon's first post was the best
 layout: post
 date: '2017-10-22 00:07:44 +0000'
-categories: jekyll update
+categories: brandon coolness
+author: His Awesomeness Mr. Brandon Wigfield
 ---
 
 Sometime you make a statement so ovious you feel the need to build a list to enumerate just how ovious it is. Because it was, you know. 
