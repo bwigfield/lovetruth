@@ -1,12 +1,9 @@
 ---
-title: Why Pikachu is my hero
-layout: default
+title: Why Pikachu is My Hero
+layout: post
 ---
 
-if the metadata default works now.
-
-Fun Fact it does!
 ![](/workin.gif)
 
-I don't know why he is, but knowing that little guys exists make me alright with the world.
-I mean if a guy like Pikachu wasn't realy how could I get trough a Trump presidenancy?
+I don't know why, but knowing that these little guys exist make me all right with the world.
+Without Pikachu, how could I get through a Trump presidency?

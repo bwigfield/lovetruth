@@ -1,5 +1,6 @@
 ---
 title: Submission Guidelines
+layout: default
 ---
 
 Articles are uncompensated and selected and edited at the editor’s discretion.  You retain the right to publish your article elsewhere, but we retain the right to republish or use the provided content as we like.  We’re not awful people, though—feel free to reach out to us about all concerns about articles that have been posted.  
@@ -9,11 +10,11 @@ Know your audience.  We at lovetruth.life aim to reach out to the Indigo Childre
 
 Suggested topics might include, but are not limited to:
 
-•	Stuff
-•	Things
-•	Shit
-•	Junk
-•	Ipsum
+* Stuff
+* Things
+* Shit
+* Junk
+* Ipsum
 
 We reserve the right to inject product placement and affiliate links into the body of your text, because that’s how we’re banking on our bills getting paid.
 If you would like to write a product placement article directing to your own product, please send us an e-mail.  We assume no liability for promoting your product, but we’d love to skim a commission.  If such article were to be selected for publication, the submission will be entirely rated on its entertainment value; acceptance or rejection is not to be construed as anything of an endorsement.  

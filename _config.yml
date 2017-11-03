@@ -18,3 +18,5 @@ defaults:
       type: pages
     values:
       layout: default
+sass:
+  style: compressed
