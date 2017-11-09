@@ -328,3 +328,16 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+
+
+main {
+  float: left;
+  margin: 0 1.5%;
+  width: 64%; 
+}
+aside {
+  float: right;
+  margin: 50px 1.5%;
+  width: 30%;
+}
+

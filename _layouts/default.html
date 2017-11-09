@@ -13,8 +13,19 @@
       </div>
     </main>
 
-    {% include footer.html %}
+{% if page.layout != 'home' %}
+<aside>
+{% include related.html %}
 
+
+</aside>
+
+<div style="clear: both;"> 
+{% endif %}
+
+{% include footer.html %}
+
+</div>
   </body>
 
 </html>

@@ -3,6 +3,7 @@ use Data::Dumper;
 use JSON;
 use open ':std', ':encoding(UTF-8)';
 use HTML::Entities;
+use URI::Encode qw(uri_encode uri_decode);
 
 my $image_count = 0;
 
@@ -43,7 +44,7 @@ if ($post->{data}->{url} =~ m/jpg|gif|gifv|png$/){
 if ( scalar keys $post->{data}->{media_embed}  gt 0){
 #print Dumper $post->{data}->{media_embed} ;
 
-     print "## $post->{data}->{title}\n";
+     print "## $post->{data}->{title}\n" . "headline scores at " . score_headline($post->{data}->{title}) . "\n";
      print  decode_entities($post->{data}->{media_embed}->{content}) . "\n\n\n\n"
 }
 
@@ -55,4 +56,14 @@ $base_name =~ s/.*\/(\w+)\//$1/;
 }
 
 
+}
+
+
+
+sub score_headline {
+my ($headline) = @_;
+#$headline = uri_encode($headline);
+$headline =~ s/ /+/g;
+$headline =~ /'//g;
+return ` curl -s 'http://www.aminstitute.com/cgi-bin/headline.cgi' -H 'Cookie: __utma=130967839.629129005.1509669307.1509669307.1509669307.1; __utmc=130967839; __utmz=130967839.1509669307.1.1.utmccn=(referral)|utmcsr=google.com|utmcct=/|utmcmd=referral; headlinecheck=2; __utmb=130967839' -H 'Origin: http://www.aminstitute.com' -H 'Accept-Encoding: gzip, deflate' -H 'Accept-Language: en-US,en;q=0.8' -H 'Upgrade-Insecure-Requests: 1' -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8' -H 'Cache-Control: max-age=0' -H 'Referer: http://www.aminstitute.com/headline/index.htm' -H 'Connection: keep-alive' --data 'text=$headline&category=Arts+%26+Entertainment&Submit2=Submit+For+Analysis' --compressed |  grep '<div align="center"><font size="7"><b><font size="5">' | awk -F'>' '{print \$5}' | awk -F'<' '{print \$1}' | tr % ' '`;
 }
