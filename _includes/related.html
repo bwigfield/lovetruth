@@ -1,0 +1,32 @@
+<h2>Archives</h2>
+<ul>
+  {% for post in site.posts %}
+    {% unless post.next %}
+      <h3>{{ post.date | date: '%Y %b' }}</h3>
+    {% else %}
+      {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
+      {% if year != nyear %}
+	<h3>{{ post.date | date: '%Y %b' }}</h3>
+      {% endif %}
+    {% endunless %}
+
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
+<!--- 
+<h3>Breaking News</h3>
+<h4>A thing happened in a place today</h4>
+<h4>A person did a thing</h4>
+<h4>There was weather</h4>
+<h4>A thing happened to a person</h4>
+
+Wouldn't this be nicer is there was an add here,feels loney without one.
+
+<h3>Related Posts</h3>
+<p>All lies</p>
+
+
+--->
