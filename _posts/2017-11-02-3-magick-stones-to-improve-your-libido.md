@@ -11,7 +11,7 @@ Because rocks are hard, they keep you or your man hard all night long!
 
 
 
-## 2. Crystal avocado
+## 2. Crystal avocado!
 This crysal harnesses the power avocados to get the job done.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=%2F%2Fimgur.com%2Fa%2FPL0e0%2Fembed&url=https%3A%2F%2Fimgur.com%2Fa%2FPL0e0&image=https%3A%2F%2Fi.imgur.com%2FIAImXX2.jpg%3Ffb&key=522baf40bd3911e08d854040d3dc5c07&type=text%2Fhtml&schema=imgur" width="550" height="550" scrolling="no" frameborder="0" allowfullscreen></iframe>
