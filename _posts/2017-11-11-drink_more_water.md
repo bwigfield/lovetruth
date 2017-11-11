@@ -8,7 +8,7 @@ description: just putting out some positivity
 ---
 # Boats
 
-Bing in a little play boat like this out in the river. Such joy.
+Being in a little playboat like this out in the river is such joy.
 
 
 # Documentation.
