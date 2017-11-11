@@ -22,7 +22,7 @@ If you were a ’90s kid, you might remember the [Satanic Panic](http://https://
 Trips to the comic store with Mom were always a blast, until she freaked out when you started to touch the Dungeons and Dragon Second Edition books or finger the crescent-bladed knives that hung over the altar.  Will Smith was right—[parents just don’t understand](https://www.youtube.com/watch?v=jW3PFC86UNI).  Even after the comic bubble burst and stores across the country began to shutter their doors, ’90s kids will remember seeing the men in leather masks watching them from the windows until the last Spawn and Batman posters were pulled down.  In spite of the recent popularity of superhero movies, today’s comic shops are still struggling because of sluggish sales, high cover prices, reader fatigue, and competition from digital markets.  In another ten years, these childhood hangout spots might completely vanish from America’s strip malls!  
 
 # **3. The Arcade**
-![](/images/arcade.jpg)
+![](/images/arcade.jpeg)
 
 Today’s kids won’t remember the arcade, where ‘90s kids spent summer afternoons with unemployed relatives playing Teenage Mutant Ninja Turtles, Super Street Fighter 2 Turbo, Mortal Combat and Samurai Showdown.  Things got weird when they installed the Time Crisis machine, however, and the women wearing vampire fangs started working in the front.  Parents feared that the snarling from the room beyond the counter was not, as you insisted, a Primal Rage machine that the nasty witches were refusing to let you play.  After a high profile child murder at an arcade in Kansas, however, most ‘90s kids knew better than to try to sneak behind the counter.
 
