@@ -1,6 +1,10 @@
 ---
 title: 5 Childhood Hangout Spots that Doubled as Covens for ’90s Satanists
 layout: post
+type: article
+image: /SamaelLilithGoatPentagram.png
+image_alt:  Beware the devils.
+description: '90s kids will remember, Black Masses were EVERYWHERE
 ---
 
 ![](/SamaelLilithGoatPentagram.png)
