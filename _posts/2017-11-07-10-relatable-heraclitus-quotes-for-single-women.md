@@ -12,43 +12,43 @@ It's such a truism to say that modern dating makes the [four trials of Psyche](h
 
 ## 1.  “No man ever steps in the same river twice, for it's not the same river and he's not the same man.”
 
-![](/river.jpeg)
+![](/images/river.jpeg)
 
 How true!  When a man ghosts you, the next time you see him, it’s like he’s a totally different person.
 
 ## 2. “The soul is dyed the color of its thoughts. Think only on those things that are in line with your principles and can bear the light of day. The content of your character is your choice. Day by day, what you do is who you become. Your integrity is your destiny - it is the light that guides your way.”
 
-![](/egg.jpg)
+![](/images/egg.jpg)
 
 If he’s watching porn all day, I’ve got news for you honey:  He’s filthy, inside and out.
 
 ## 3.  “Man's character is his fate.”
 
-![](/clock.jpeg)
+![](/images/clock.jpeg)
 
 Translation:  DON’T BE SURPRISED WHEN A DOG IS A DOG.
 
 ## 4.  “Abundance of knowledge does not teach men to be wise.”
 
-![](/books.jpg)
+![](/images/books.jpg)
 
 Just remember this when he’s “mansplaining” to you--just because he’s a wise-ass, doesn’t mean he’s wise!
 
 ## 5.  “Men forget where the way leads and what they meet with every day seems strange to them. We should not act and speak like men asleep.”
 
-![](/sleep2.kpeg)
+![](/images/sleep2.kpeg)
 
 There’s nothing worse than talking to a sleeping man.  They’re always spouting nonsense.
 
 ## 6.  “Even what those with the greatest reputation for knowing it all claim to understand and defend are but opinions.”
 
-![](/conversation.jpeg)
+![](/images/conversation.jpeg)
 
 MH-HMM. 
 
 ## 7.  “Man is most nearly himself when he achieves the seriousness of a child at play.”
 
-![](/child.jpg)
+![](/images/child.jpg)
 
 Just like Heraclitus said millennia ago--men are children at best.
 
