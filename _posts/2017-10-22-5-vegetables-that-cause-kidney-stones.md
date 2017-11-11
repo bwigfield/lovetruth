@@ -1,6 +1,11 @@
 ---
 title: 5 Vegetables that Cause Kidney Stones
 layout: post
+author: Sasha Celestial
+type: article
+image: https://static.pexels.com/photos/33307/carrot-kale-walnuts-tomatoes.jpg
+image_alt:  5 Vegetables that Cause Kidney Stones
+description: See what vegetables to avoid!
 ---
 
 ![](   https://static.pexels.com/photos/33307/carrot-kale-walnuts-tomatoes.jpg)
