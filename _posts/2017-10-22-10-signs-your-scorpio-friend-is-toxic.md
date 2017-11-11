@@ -1,6 +1,10 @@
 ---
-title: 10 Signs your Scorpio Friend is Toxic
 layout: post
+author: 
+title: 10 Signs your Scorpio Friend is Toxic
+type: article
+image: https://images.pexels.com/photos/601170/pexels-photo-601170.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb
+description: Is your Scorpio friend toxic?  See if they fit these 10 signs.
 ---
 
 ![](   https://images.pexels.com/photos/601170/pexels-photo-601170.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb)
