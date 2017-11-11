@@ -1,6 +1,5 @@
 ---
-title: 10 Relatable Heraclitus Quotes for 
-Single Women
+title: 10 Relatable Heraclitus Quotes for Single Women
 layout: post
 author: Sasha Celestial
 Image: http://lovetruth.life/images/river.jpeg
@@ -36,7 +35,7 @@ Just remember this when he’s “mansplaining” to you--just because he’s a 
 
 ## 5.  “Men forget where the way leads and what they meet with every day seems strange to them. We should not act and speak like men asleep.”
 
-![](/images/sleep2.kpeg)
+![](/images/sleep2.jpeg)
 
 There’s nothing worse than talking to a sleeping man.  They’re always spouting nonsense.
 
