@@ -57,6 +57,6 @@ Just like Heraclitus said millennia ago--men are children at best.
 Did they have Tinder in ancient Greece or what?
 
 ## 9.  (And the Sibyl, with raving lips uttering things mirthless, unbedizened, and unperfumed, reaches over a thousand years with her voice, thanks to the god in her.)” 
-![](http://)
+![](images/delphi.jpg)
 
 It doesn't matter if people think you're mean, crazy and gross--never forget that there's a goddess in you.
