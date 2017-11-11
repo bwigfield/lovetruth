@@ -2,7 +2,7 @@
 layout: post
 title: 5 Childhood Hangout Spots that Doubled as Covens for ’90s Satanists
 type: article
-image: /SamaelLilithGoatPentagram.png
+image: https://lovetruth.life/SamaelLilithGoatPentagram.png
 image_alt:  Beware the devils.
 description:  90s kids will remember, devil-worshippers were EVERYWHERE.
 ---
