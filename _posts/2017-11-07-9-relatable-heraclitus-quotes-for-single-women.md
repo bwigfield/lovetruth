@@ -1,5 +1,5 @@
 ---
-title: 10 Relatable Heraclitus Quotes for Single Women
+title: 9 Relatable Heraclitus Quotes for Single Women
 layout: post
 author: Sasha Celestial
 Image: http://lovetruth.life/images/river.jpeg
@@ -52,7 +52,7 @@ MH-HMM.
 Just like Heraclitus said millennia ago--men are children at best.
 
 ## 8.  “Give me one man from among ten thousand if he is the best”
-![](http://)
+![](images/manofmen.jpeg)
 
 Did they have Tinder in ancient Greece or what?
 
