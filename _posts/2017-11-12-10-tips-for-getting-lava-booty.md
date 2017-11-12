@@ -21,7 +21,7 @@ description:  If you're looking to get a lava booty for this Valentine's Day, we
 
 ![](/images/vesuvius.jpg)
 
-## 6.  [Do this lava booty workout!]([https://www.youtube.com/watch?v=s94P7KzBLAw)
+## 6.  [Do this lava booty workout!](http://www.youtube.com/watch?v=s94P7KzBLAw)
 
 ## 7.  Shove this lava lamp up your ass.
 <a href="https://www.amazon.com/Lava-Original-14-5-Inch-Purple-Metallic/dp/B00JRJLTZU/ref=as_li_ss_il?s=lamps-light&ie=UTF8&qid=1510458569&sr=1-1&keywords=lava+lamp&refinements=p_n_feature_twelve_browse-bin:5740614011&linkCode=li2&tag=lovetruthlife-20&linkId=ff3053a88ac46ed330e781fdef2439ed" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JRJLTZU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B00JRJLTZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
