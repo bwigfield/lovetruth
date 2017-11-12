@@ -34,6 +34,8 @@ We throw this shit on everything. Not anymore! Containing 1.48/100 grams of oxal
 
 A wonderful addition to an evening's spaghetti, or the harbinger of death? At 1.7 grams/100 grams of oxalates, we'll let YOU decide.
 
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=0e064038-c853-43b6-9823-8cb70f476562"></script>
+
 # **4. COLLARDS**
 ![](https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1492591855000/photosp/a6771981-f5d3-46ea-af98-cbe58ff9dfa7/stock-photo-nature-leaf-green-texture-fresh-veins-background-collards-a6771981-f5d3-46ea-af98-cbe58ff9dfa7.jpg)
 
