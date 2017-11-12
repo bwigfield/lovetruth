@@ -5,7 +5,7 @@ image: http://lovetruth.life/images/monsterenergy.jpg
 description:  When you read this, you'll throw out Your Monster Energy Drinks immediately!
 ---
 ![](/images/monsterenergy.jpg)
-Many Americans purchase Monster brand energy drinks because they're short-sighted fools.  No matter how many times you tell them that they're bad for them, they persist.  They must be stopped.  Here's why you should NEVER drink a Monste energy drink.
+Many Americans purchase Monster brand energy drinks because they're short-sighted fools.  No matter how many times you tell them that they're bad for them, they persist.  They must be stopped.  Here's why you should NEVER drink a Monster energy drink.
 
 ## 1. It tastes awful. 
 
@@ -23,8 +23,8 @@ You can't do that again. The cycle must end.
 
 ## 4. You must be better than this. 
 
-This cannot continue. 
+This cannot continue.  I know, I know, "this bird you cannot change," but if you continue down this road, you'll awaken one day to find you no longer recognize yourself.
 
-## 5. Sales from Monster fund genetic research
+## 5. It's of the devil.
 
-It's true.  The producers of Monster Energy drink are mass-producing children fueled by caffeine and sugar for questionable ends.  I've seen enough science fiction movies to know that this can't end well.
+Known Fake News website ["Snopes" falsely claims](https://www.snopes.com/politics/business/monster666.asp) that the Monster's claw logo is not a secret Satanic symbol, but it is.  We must be honest with ourselves:  Money from the sale of Monster energy drinks likely goes to fund the research of Satanic biological laboraties.  We don't know what the end result of their terrible experiments will be, but we cannot discount that this might lead to a dark future.
