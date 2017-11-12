@@ -3,10 +3,10 @@ layout: post
 author: Sasha Celestial
 title: 12 Tips for Cosplayers Entering the Workforce
 type: article
-image:  http://lovetruth.life\images\cosplay1.jpg
+image:  http://lovetruth.life/images/dinosaur.jpg
 description: If you're transitioning from a career in cosplay to a real job, you need these tips!
 ---
-[](\images\cosplay1.jpg)
+![](/images/dinosaur.jpg)
 ## 1. Don’t wear your cosplay to work. 
 
 It might be tempting, but don’t do it!  It’s a total faux pas, and even though your employee manual doesn’t specifically forbid it, you better be believe you would attract the wrong sort of attention.
