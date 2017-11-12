@@ -3,6 +3,8 @@ layout: post
 title: 5 Reasons You Should Stop Drinking Monster Energy Drinks
 ---
 
+Many Americans purchase Monster brand energy drinks because they're short-sighted fools.  No matter how many times you tell them that they're bad for them, they persist.  They must be stopped.  Here's why you should NEVER drink a Monste energy drink.
+
 ## 1. It tastes awful. 
 
 No Fear and Amp deliver the same great caffeine fix without the taste of Monster. 
@@ -19,6 +21,6 @@ You can't do that again. The cycle must end.
 
 This cannot continue. 
 
-## 5. Sales from Monster Fund Genetic Research
+## 5. Sales from Monster fund genetic research
 
-It's true.  The producers of Monster Energy drink are mass-producing children fueled by caffeine. 
+It's true.  The producers of Monster Energy drink are mass-producing children fueled by caffeine and sugar for questionable ends.  I've seen enough science fiction movies to know that this can't end well.
