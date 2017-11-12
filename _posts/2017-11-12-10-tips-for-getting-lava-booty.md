@@ -2,6 +2,7 @@
 title: 10 Tips on Getting a Lava Booty This Valentine’s Day
 layout: post
 type:  article
+Image: http://lovetruth.life/images/lavalamp.jpg
 author: Johnathon Livingston Peacock
 description:  If you're looking to get a lava booty for this Valentine's Day, we've got you covered!
 ---
