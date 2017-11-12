@@ -21,6 +21,8 @@ If you were a ’90s kid, you might remember the [Satanic Panic](http://https://
 
 Trips to the comic store with Mom were always a blast, until she freaked out when you started to touch the Dungeons and Dragon Second Edition books or finger the crescent-bladed knives that hung over the altar.  Will Smith was right—[parents just don’t understand](https://www.youtube.com/watch?v=jW3PFC86UNI).  Even after the comic bubble burst and stores across the country began to shutter their doors, ’90s kids will remember seeing the men in leather masks watching them from the windows until the last Spawn and Batman posters were pulled down.  In spite of the recent popularity of superhero movies, today’s comic shops are still struggling because of sluggish sales, high cover prices, reader fatigue, and competition from digital markets.  In another ten years, these childhood hangout spots might completely vanish from America’s strip malls!  
 
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=71ed1aa1-2a8d-4124-b129-293c4527dc1c"></script>
+
 # **3. The Arcade**
 ![](/images/arcade.jpeg)
 
@@ -30,6 +32,8 @@ Today’s kids won’t remember the arcade, where ‘90s kids spent summer after
 ![](/images/church.jpeg)
 
 ‘90s parents often tried to enroll their children in summer programs at Church to try to keep them on the straight and narrow, but they didn’t know that often, youth counselors were the exact sort of evil they were afraid of.  We showed our parents our drawings recreating our favorite scenes from Exodus, but we were instructed to never tell them about the weirder things the ministers instructed us to create, like the paper mache sculpture of the Whore of Babylon carrying a great chalice.  Church services with Mom and Dad were often a bore, but at youth camp, the hymns were backwards classic rock songs.
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=71ed1aa1-2a8d-4124-b129-293c4527dc1c"></script>
 
 # **5. The Library**
 ![](/images/library.jpeg)
