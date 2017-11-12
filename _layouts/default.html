@@ -7,7 +7,7 @@
 <script>
   window.fbAsyncInit = function() {
     FB.init({
-      appId      : '{your-app-id}',
+      appId      : '2251254571567542',
       xfbml      : true,
       version    : 'v2.11'
     });
@@ -34,9 +34,11 @@
     </main>
 
 {% if page.layout != 'home' %}
-<aside>
-{% include related.html %}
+<aside class="page-content" aria-label="Post Archives">
+      <div class="wrapper">
 
+{% include related.html %}
+</div>
 
 </aside>
 
