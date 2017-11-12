@@ -28,18 +28,20 @@ When you win the cosplay contest, it’s important to thank your loyal fans who 
 Typically when a cosplayer gets heated about something, they go to social media and put the offending parties on blast.  That won’t fly in the office—you’ll have to face your co-workers every day, and they won’t be happy.
 
 ## 6. Don’t ask your boss to donate to your Patreon.
-It’s tempting to tell your boss that if he wants you to keep up the hard work, he should make a recurring donation to your patreon, but it won’t go over the way you think.  You’re already being paid for that.
+It’s tempting to tell your boss that if he wants you to keep up the hard work, he should make a recurring donation to your (Patreon)[https://www.patreon.com/], but it won’t go over the way you think.  You’re already being paid to work hard.
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=68f6d0a7-9454-4f98-b4a2-5160e2413775"></script>
  
 ## 7. You shouldn’t need to pull an all-nighter to get dressed for work.
 Sometimes it takes all night to cobble your cosplay together, but if you have to forego sleep in order to get dressed for work, you’re going to have major problems.
 
 ## 8. Don’t steal people’s food from the office refrigerator.
 
-There’s nobody more loathed than a food thief.  Just don’t do it--no matter how hungry you are!
+There’s nobody more loathed than a food thief.  Just don’t do it--no matter how hungry you are!  Your victim will find you, and there will be justice meted.
 
 ## 9. Refrain from playing J-Pop at your desk unless you’re wearing headphones.
 
-It’ll just get on everyone’s nerves.  Listen to your J-Pop with headphones at a low volume, if you must.
+It’ll just get on everyone’s nerves.  Listen to your Ayumi Hamasaki or Hatsune Miku or whatever weeb shit is popular these days with headphones at a low volume, if you must.  Nobody subjects you to their music, have some consideration.  The last time a cosplayer jammed out to the Initial D parking lot at his desk, he was escorted out by security.
 
 ## 10. Don’t leave pins and needles everywhere!
 
