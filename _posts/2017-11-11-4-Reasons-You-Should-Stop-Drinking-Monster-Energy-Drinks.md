@@ -27,4 +27,4 @@ This cannot continue.  I know, I know, "this bird you cannot change," but if you
 
 ## 5. It's of the devil.
 
-Known Fake News website ["Snopes" falsely claims](https://www.snopes.com/politics/business/monster666.asp) that the Monster's claw logo is not a secret Satanic symbol, but it is.  We must be honest with ourselves:  Money from the sale of Monster energy drinks likely goes to fund the research of Satanic biological laboraties.  We don't know what the end result of their terrible experiments will be, but we cannot discount that this might lead to a dark future.
+Known Fake News website ["Snopes" falsely claims](https://www.snopes.com/politics/business/monster666.asp) that the Monster's claw logo is not a secret Satanic symbol, but [this woman](https://youtu.be/bntfUA6TmLs) begs to differ.  We must be honest with ourselves:  Money from the sale of Monster energy drinks likely goes to fund the research of Satanic biological laboraties.  We don't know what the end result of their terrible experiments will be, but we cannot discount that this might lead to a dark future.
