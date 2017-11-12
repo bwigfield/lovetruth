@@ -3,7 +3,7 @@ layout: post
 author: Sasha Celestial
 title: 12 Tips for Cosplayers Entering the Workforce
 type: article
-image:  http://lovetruth.life/images/cosplay1.jpg
+image:  http://lovetruth.life/images/dinosaur.jpg
 description: If you're transitioning from a career in cosplay to a real job, you need these tips!
 ---
 [](images\dinosaur.jpg)
