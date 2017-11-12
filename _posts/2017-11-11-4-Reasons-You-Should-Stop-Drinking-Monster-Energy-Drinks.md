@@ -9,7 +9,7 @@ Many Americans purchase Monster brand energy drinks because they're short-sighte
 
 ## 1. It tastes awful. 
 
-(No Fear)[http://amzn.to/2htD5jD] and (Amp)[http://amzn.to/2ywHWn5] deliver the same great high-caffeine fix without the corrosive alien taste of Monster. 
+[No Fear](http://amzn.to/2htD5jD) and [Amp](http://amzn.to/2ywHWn5) deliver the same great high-caffeine fix without the corrosive alien taste of Monster. 
 
 ## 2. High sugar content makes you a target for ants. 
 
