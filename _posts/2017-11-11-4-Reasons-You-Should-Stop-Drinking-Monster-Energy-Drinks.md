@@ -13,6 +13,8 @@ No Fear and Amp deliver the same great caffeine fix without the taste of Monster
 
 Believe me, you don't want to wake up with ants in your blood. 
 
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=1c80b1da-338c-4501-93b3-b0551e033705"></script>
+
 ## 3. Last time you unleashed the Monster, terrible things happened. 
 
 You can't do that again. The cycle must end. 
