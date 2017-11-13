@@ -28,7 +28,7 @@ When you win the cosplay contest, it’s important to thank your loyal fans who 
 Typically when a cosplayer gets heated about something, they go to social media and put the offending parties on blast.  That won’t fly in the office—you’ll have to face your co-workers every day, and they won’t be happy.
 
 ## 6. Don’t ask your boss to donate to your Patreon.
-It’s tempting to tell your boss that if he wants you to keep up the hard work, he should make a recurring donation to your (Patreon)[https://www.patreon.com/], but it won’t go over the way you think.  You’re already being paid to work hard.
+It’s tempting to tell your boss that if he wants you to keep up the hard work, he should make a recurring donation to your [Patreon](https://www.patreon.com/), but it won’t go over the way you think.  You’re already being paid to work hard.
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=68f6d0a7-9454-4f98-b4a2-5160e2413775"></script>
  
