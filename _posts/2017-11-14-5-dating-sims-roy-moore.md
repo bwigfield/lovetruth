@@ -13,7 +13,7 @@ description: Hey, Roy Moore, how about instead of trying to fuck REAL teenagers,
 
 ## 1. Persona 5
 
-<a href="https://www.amazon.com/Persona-5-Standard-PlayStation-4/dp/B01GKHJP98/ref=as_li_ss_il?ie=UTF8&qid=1510640150&sr=8-1&keywords=persona+5&th=1&linkCode=li2&tag=lovetruthlife-20&linkId=63b4692788969c2bb46c4698ef7c20aa" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GKHJP98&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B01GKHJP98" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Persona-5-Standard-PlayStation-4/dp/B01GKHJP98/ref=as_li_ss_il?ie=UTF8&qid=1510640150&sr=8-1&keywords=persona+5&th=1&linkCode=li3&tag=lovetruthlife-20&linkId=f40115a7cd05577c38acf7853832065c" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GKHJP98&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B01GKHJP98" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Many gamers think the Persona series has taken the Japanese RPG crown from Final Fantasy.  While it's not quite a dating sim, Persona 5 allows the vigilante Joker to pursue relationships with high school girls--just like Roy Moore!
 
