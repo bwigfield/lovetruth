@@ -19,7 +19,7 @@ Many gamers think the Persona series has taken the Japanese RPG crown from Final
 
 ## 2. Princess Maker 2
 
-![](http://cdn.edgecast.steamstatic.com/steam/apps/523000/ss_657fca7123cff2bfa09f1d6795597990aed88c27.1920x1080.jpg?t=1476759040)
+![](/images/roymoore3.jpg)
 
 In this classic Japanese game, you raise your daughter from childhood into whatever type of woman you want her to be.  As you literally dictate her schedule, she has no free will, and in certain endings, you might even marry her.  This seems like the sort of game Roy Moore would like to play.  
 
@@ -33,7 +33,7 @@ This game is about a "lolicon" (e.g., pedophile) who "can't resist" the local te
 
 ## 4. Hatoful Boyfriend
 
-![](http://cdn.edgecast.steamstatic.com/steam/apps/310080/ss_bd9f6e77ff633d4c15dde3deafa0899ff0cf4e00.1920x1080.jpg?t=1500889979)
+![](/images/roymoore4.jpg)
 
 While these teenagers are also pigeons, I wouldn't put it past Roy Moore to enjoy courting them.
 
@@ -41,6 +41,6 @@ While these teenagers are also pigeons, I wouldn't put it past Roy Moore to enjo
 
 ## 5. My Girlfriend is the President
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wYIaeEnUMmo" frameborder="0" allowfullscreen></iframe>
+<iframe width="496" height="279" src="https://www.youtube.com/embed/wYIaeEnUMmo" frameborder="0" allowfullscreen></iframe>
 
 Roy Moore's three favorite things are Jesus, exaggerated American patriotism, and using political power to coerce teenager girls; this game would fit him just fine!
