@@ -35,7 +35,7 @@ This game is about a "lolicon" (e.g., pedophile) who "can't resist" the local te
 
 ![](http://cdn.edgecast.steamstatic.com/steam/apps/310080/ss_bd9f6e77ff633d4c15dde3deafa0899ff0cf4e00.1920x1080.jpg?t=1500889979)
 
-While these teenagers are also pidgeons, I wouldn't put it past Roy Moore to enjoy courting them.
+While these teenagers are also pigeons, I wouldn't put it past Roy Moore to enjoy courting them.
 
 [Available on Steam here.](http://store.steampowered.com/app/310080/Hatoful_Boyfriend/)
 
