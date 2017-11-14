@@ -1,3 +1,4 @@
+---
 title: 5 Dating Sims Roy Moore Should Play Instead of Dating Teenagers
 layout: post
 author: Resistance Jack
