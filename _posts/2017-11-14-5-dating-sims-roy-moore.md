@@ -17,7 +17,7 @@ It's since come out that [Moore's co-workers at the district Court said it was "
 
 ## 1. Persona 5
 
-![](kamoshida.jpg)
+![](Kamoshida.jpg)
 
 Many gamers think the Persona series has taken the Japanese RPG crown from Final Fantasy.  While it's not quite a dating sim, Persona 5 allows the vigilante Joker to pursue relationships with high school girls--just like Roy Moore!
 
