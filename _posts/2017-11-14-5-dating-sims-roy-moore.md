@@ -51,6 +51,7 @@ While these teenagers are also pigeons, I wouldn't put it past Roy Moore to enjo
 
 <iframe width="496" height="279" src="https://www.youtube.com/embed/wYIaeEnUMmo" frameborder="0" allowfullscreen></iframe>
 
+
 Roy Moore's three favorite things are Jesus, exaggerated American patriotism, and using political power to coerce teenager girls; this game would fit him just fine!
 
 [You can buy it here from PlayAsia.](https://www.play-asia.com/my-girlfriend-is-the-president-dvd-rom/13/7044js?tagid=969338)
