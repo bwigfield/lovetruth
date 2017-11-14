@@ -27,7 +27,7 @@ In this classic Japanese game, you raise your daughter from childhood into whate
 
 ## 3. 	Chibi Pire! Kyuuketsu Shimai to Ecchi de Bitch na Dousei Seikatsu
 
-![](/images/roymoore2.jpg]
+![](/images/roymoore2.jpg)
 
 This game is about a "lolicon" (e.g., pedophile) who "can't resist" the local teens.  Just like Roy Moore.  If he wants to find this game, he'll have to look it up himself.
 
