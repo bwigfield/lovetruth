@@ -41,7 +41,7 @@ There’s nobody more loathed than a food thief.  Just don’t do it--no matter 
 
 ## 9. Refrain from playing J-Pop at your desk unless you’re wearing headphones.
 
-It’ll just get on everyone’s nerves.  Listen to your Ayumi Hamasaki or Hatsune Miku or whatever weeb shit is popular these days with headphones at a low volume, if you must.  Nobody subjects you to their music, have some consideration.  The last time a cosplayer jammed out to the Initial D parking lot at his desk, he was escorted out by security.
+It’ll just get on everyone’s nerves.  Listen to your Ayumi Hamasaki or Hatsune Miku or whatever weeb shit is popular these days with headphones at a low volume, if you must.  Nobody subjects you to their music, have some consideration.  The last time a cosplayer jammed out to the Initial D soundtrack at his desk, he was escorted out by security.
 
 ## 10. Don’t leave pins and needles everywhere!
 
