@@ -8,11 +8,13 @@ description:  If you're looking to get a lava booty for this Valentine's Day, we
 ---
 ## 1. Squat in a volcano
 
+![](/images/volcano.jpeg)
+
 ## 2. Use a [masque of volcanic ash](http://amzn.to/2i7m0sK) on your booty
 
 <a href="https://www.amazon.com/Queen-Helene-Volcanic-Masque-Ounce/dp/B06Y19GQPN/ref=as_li_ss_il?ie=UTF8&qid=1510458413&sr=8-1&keywords=volcanic+ash+masque&linkCode=li2&tag=lovetruthlife-20&linkId=e4056a106268e3ba682d7fca89ae2482" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06Y19GQPN&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B06Y19GQPN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-## 3. Do poppers and go into a volcanic sandbath.
+## 3. Do poppers and go into a [volcanic sandbath](https://www.youtube.com/watch?v=vuXYq9POsYU).
 
 ## 4.  Use a [Storz & Bickel Volcano Vaporizer](https://www.storz-bickel.com/us/en/volcano/) to boof a [balloon](http://amzn.to/2yshfQH) of cannabis vapor.
 <a href="https://www.amazon.com/Volcano-Easy-Valve-Replacement-Balloons/dp/B01BL4AW6U/ref=as_li_ss_il?ie=UTF8&qid=1510458260&sr=8-1-fkmr1&keywords=volcano+vaporizer+balloon&linkCode=li2&tag=lovetruthlife-20&linkId=73ce1787b7bc291625f9c42190d5a1a4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01BL4AW6U&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B01BL4AW6U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -36,4 +38,4 @@ description:  If you're looking to get a lava booty for this Valentine's Day, we
 
 ## 10.  These flame leggings will make your booty look like lava.  
 
-<a href="https://www.amazon.com/Tipsy-Elves-TE-WP95M-Flame-Leggings/dp/B01J24CXPE/ref=as_li_ss_il?ie=UTF8&qid=1510457301&sr=8-4&keywords=flame+leggings&linkCode=li2&tag=lovetruthlife-20&linkId=bb88066e959825753b1016a6f7c03ed0" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01J24CXPE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B01J24CXPE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Womens-Tights-Comfortable-Winter-Leggings/dp/B016ZA1NJK/ref=as_li_ss_il?ie=UTF8&qid=1510635491&sr=8-11&keywords=fire+legging&linkCode=li2&tag=lovetruthlife-20&linkId=141b70a83b25c1c05b3d108a22609aa9" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B016ZA1NJK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B016ZA1NJK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
