@@ -25,6 +25,8 @@ In this classic Japanese game, you raise your daughter from childhood into whate
 
 [You can get it from Steam here.](http://store.steampowered.com/app/523000/Princess_Maker_2_Refine/)
 
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=f05bd9c4-3c48-44da-9e82-aa59f51fb162"></script>
+
 ## 3. 	Chibi Pire! Kyuuketsu Shimai to Ecchi de Bitch na Dousei Seikatsu
 
 ![](/images/roymoore2.jpg)
