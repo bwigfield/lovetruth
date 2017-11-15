@@ -30,7 +30,7 @@ What's this? You came home after a long night of work, hoping to catch some symp
 However, you walked in on them drinking a strange serum! When you asked what it was, they got aggressive. Wow.
 Now that's what I call toxic.
 
-##5. You find their confession
+## 5. You find their confession
 Welp, another one bites the dust. You ignored ALL the red flags of dating this Gemini, and look where that got us?
 You found their confession, that they were taking a serum to entertain their vices as the personality of Hyde. Wow. 
 Guess it's back to the drawing board of love!
