@@ -1,7 +1,7 @@
 ---
 layout: post
 author:  Resistance Jack
-title: The Best Anti-Trump Gear for Thanksgiving
+title: 8 Best Pieces of Anti-Trump Gear for Thanksgiving Dinner
 type: article
 image: http://lovetruth.life/images/ResignMotherfucker.jpg
 description: You won't want to go to your Trump-loving family's Thanksgiving dinner without these things.
