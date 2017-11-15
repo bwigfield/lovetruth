@@ -2,7 +2,7 @@ layout: post
 author: Kale Chakra
 title:5 Red Flags when Dating a Gemini
 type: article
-image: lovetruth/images/gemini-2550197_960_720.png
+image: http://lovetruth/images/gemini-2550197_960_720.png
 description: Is your Gemini hiding a dark secret? Know the warning signs!
 ---
 5 Red Flags when Dating a Gemini
