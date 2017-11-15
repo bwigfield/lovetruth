@@ -3,8 +3,8 @@ layout: post
 author:  Resistance Jack
 title: The Best Anti-Trump Gear for Thanksgiving
 type: article
-image: http://lovetruth.life/images/resignmotherfucker.jpg
-description: just putting out some positivity
+image: http://lovetruth.life/images/ResignMotherfucker.jpg
+description: You won't want to go to your Trump-loving family's Thanksgiving dinner without these things.
 ---
 Thanksgiving is best-known as a time for spirited political discussion with your rarely-seen family members, so this season we've put together a listicle of all the best anti-Trump gear you could possibly bring to dinner and really stick it to your racist, religious, and Republican family members.
 
@@ -40,7 +40,7 @@ You know that Trump has done nothing but lie to his voters for years--in fact, a
 
 ## 6. The Resign Motherfucker cap
 
-![](resignmotherfucker.jpg)
+![](/images/ResignMotherfucker.jpg)
 
 You tell that motherfucker to resign right now.
 
