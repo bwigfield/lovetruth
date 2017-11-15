@@ -5,9 +5,8 @@ author: Kale Chakra
 type: article
 image: http://lovetruth/images/gemini-2550197_960_720.png
 description: Is your Gemini hiding a dark secret? Know the warning signs!
-
-5 Red Flags when Dating a Gemini
 ---
+
 ![](/images/gemini-2550197_960_720.png)
 Astrology is important in any match up, but what are the pitfalls of dating a Gemini? Watch out for these red flags, and you won't have to worry about a thing!
 
