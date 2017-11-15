@@ -1,5 +1,5 @@
 ---
-title:5 Red Flags when Dating a Gemini
+title: 5 Red Flags when Dating a Gemini
 layout: post
 author: Kale Chakra
 type: article
