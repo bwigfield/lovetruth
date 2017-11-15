@@ -13,7 +13,7 @@ Astrology is important in any match up, but what are the pitfalls of dating a Ge
 ## 1. They are paying for the crimes of a man named Hyde
 You met them at this cute little venue, it was a 90s dance night and their smile caught you off guard.
 The beat was jammin', you danced closer. Soon you were talking like old friends. But, by the third date you noticed something odd.
-During your typical post-coital taco bell, you saw a check stub on the floor, it was addressed to Mr. Hyde.
+During your typical post-coital Taco Bell, you saw a check stub on the floor, it was addressed to Mr. Hyde.
 
 ## 2. You find out they made Mr. Hyde their only beneficiary
 Things have been getting serious. You've gotten closer, met each other's families. It's a dream come true!
