@@ -6,19 +6,19 @@ type: article
 image: http://lovetruth.life/images/resignmotherfucker.jpg
 description: just putting out some positivity
 ---
-Thanksgiving is best-known as a time for spirited political discussion with your rarely-seen family members, so this season we’ve put together a listicle of all the best anti-Trump gear you could possibly bring to dinner and really stick it to your racist, religious, and Republican family members.
+Thanksgiving is best-known as a time for spirited political discussion with your rarely-seen family members, so this season we've put together a listicle of all the best anti-Trump gear you could possibly bring to dinner and really stick it to your racist, religious, and Republican family members.
 
-## 1. It’s Mueller Time t-shirt
+## 1. It's Mueller Time t-shirt
 
 <a href="https://www.amazon.com/Robert-Mueller-Anti-Trump-2017/dp/B0746LNZ3C/ref=as_li_ss_il?ie=UTF8&qid=1510004723&sr=8-5&keywords=anti-trump&dpID=41Y2LkoGvJL&preST=_SX342_QL70_&dpSrc=srch&linkCode=li3&tag=lovetruthlife-20&linkId=b63f491f77a98fd593af5c8e855bc114" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0746LNZ3C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B0746LNZ3C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Let your family know that, unlike FOX News-watching, complicit Uncle Danny, you fully support Special Counselor Robert Mueller’s Russia investigation, and that when the time comes for Mueller to “Lock Him Up,” you’re going to crack open a cold one.
+Let your family know that, unlike FOX News-watching, complicit Uncle Danny, you fully support Special Counselor Robert Mueller's Russia investigation, and that when the time comes for Mueller to "Lock Him Up," you're going to crack open a cold one.
 
 ## 2. Donald Trump Toilet Paper
 
 <a href="https://www.amazon.com/Novelty-Stocking-Democrats-Republicans-Hilarious/dp/B01H742KRW/ref=as_li_ss_il?ie=UTF8&qid=1510004723&sr=8-3&keywords=anti-trump&dpID=41iiqLbw7mL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=lovetruthlife-20&linkId=6f6219b552af9202fab18d4b8f4d56b1" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01H742KRW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B01H742KRW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Switch out the paper when no one is looking, and throw out your family's Charmin.  If anyone’s wiping their ass this Thanksgiving, it’s going to be with Donald Trump’s face.
+Switch out the paper when no one is looking, and throw out your family's Charmin.  If anyone's wiping their ass this Thanksgiving, it's going to be with Donald Trump's face.
 
 ## 3. "I Hate When I Wake Up In The Morning and Donald Trump Is President" Coffee Mug
 
