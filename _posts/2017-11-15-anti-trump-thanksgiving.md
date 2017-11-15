@@ -12,7 +12,7 @@ Thanksgiving is best-known as a time for spirited political discussion with your
 
 <a href="https://www.amazon.com/Robert-Mueller-Anti-Trump-2017/dp/B0746LNZ3C/ref=as_li_ss_il?ie=UTF8&qid=1510004723&sr=8-5&keywords=anti-trump&dpID=41Y2LkoGvJL&preST=_SX342_QL70_&dpSrc=srch&linkCode=li3&tag=lovetruthlife-20&linkId=b63f491f77a98fd593af5c8e855bc114" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0746LNZ3C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B0746LNZ3C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Let your family know that, unlike FOX News-watching, complicit Uncle Danny, you fully support Special Counselor Robert Mueller's Russia investigation, and that when the time comes for Mueller to "Lock Him Up," you're going to crack open a cold one.
+Let your family know that, unlike FOX News-watching, complicit Uncle Danny, you fully support Special Counsel Robert Mueller's Russia investigation, and that when the time comes for Mueller to "Lock Him Up," you're going to crack open a cold one.
 
 ## 2. Donald Trump Toilet Paper
 
@@ -57,4 +57,6 @@ Wrap this [Drumpf.wtf's](https://www.drumpf.wtf/) 3x5 foot IMPEACH TRUMP flag ar
 <a href="https://www.amazon.com/Apexshell-Packs-Sticker-Presidential-Election/dp/B01MRK7VI7/ref=as_li_ss_il?ie=UTF8&qid=1510725452&sr=8-9&keywords=fuck+trump&linkCode=li3&tag=lovetruthlife-20&linkId=eb9bf5c34e50c22f017737c27bbde7f7" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MRK7VI7&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B01MRK7VI7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 You know what to do with these.  Put one on everybody's car.  Make your family motorcade a giant middle finger to the Orange Cheeto.
+
+Never stop #resisting.
 
