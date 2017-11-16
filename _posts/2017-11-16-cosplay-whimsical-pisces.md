@@ -19,7 +19,7 @@ You could say she's practically dreaming awake!
 Karolina is not only an alien, but her true form is made up of FUCKING RAINBOWS. She goes by Lucy in the Sky with Diamonds (LSD)
 and even has a gender shifting wife. The perfect costume for any Pisces.
 
-![](/images/images/Madoka.png)
+![](/images/Madoka.png)
 ## 3. Madoka from Puella Magi Madoka Magicka
 Madoka is a magical girl, she has pink hair, and she is literally God. Enough said.
 
