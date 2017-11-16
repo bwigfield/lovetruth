@@ -23,7 +23,7 @@ Or is it? You found that they wrote in Mr. Hyde as their only beneficiary in the
 ## 3. They keep secluding themselves in their lab
 Lovers are supposed to make time for each other aren't they? Ugh! Modern relationships are the worst.
 You just want to spend a little quality time with your beloved darling, but they keep shutting you out and isolating in their stupid lab!
-What could they be doing in their? Typical Geminis. Time to break out the ice cream and Netflix.
+What could they be doing in there? Typical Geminis. Time to break out the ice cream and Netflix.
 
 ## 4. You catch them drinking a strange serum
 What's this? You came home after a long night of work, hoping to catch some sympathy and maybe a cuddle. 
