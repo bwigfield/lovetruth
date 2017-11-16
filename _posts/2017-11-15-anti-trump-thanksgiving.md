@@ -36,7 +36,7 @@ In fact, don't even talk to your family.  Just break out this adult coloring boo
 
 <a href="https://www.amazon.com/Anti-Trump-TShirt-Checklist-Obamacare/dp/B06Y2DNWDR/ref=as_li_ss_il?ie=UTF8&qid=1510006078&sr=8-6&keywords=anti-trump+SHIRT&linkCode=li2&tag=lovetruthlife-20&linkId=12561ff07438ed55c7ff1b85069c4266" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06Y2DNWDR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B06Y2DNWDR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-[You know that Trump has told at least 1318 lies as of October 2017.](https://www.washingtonpost.com/news/fact-checker/wp/2017/10/10/president-trump-has-made-1318-false-or-misleading-claims-over-263-days/?utm_term=.24af2233afc5)  You don't have time to list EVERY SINGLE ONE of to your family, so when they demand to know why you're calling 45 a "miserable failure" and a "fucking liar," just point to your t-shirt.
+[You know that Trump has told at least 1318 lies as of October 2017.](https://www.washingtonpost.com/news/fact-checker/wp/2017/10/10/president-trump-has-made-1318-false-or-misleading-claims-over-263-days/?utm_term=.24af2233afc5)  You don't have time to list EVERY SINGLE ONE to your family, so when they demand to know why you're calling 45 a "miserable failure" and a "fucking liar," just point to your t-shirt.
 
 ## 6. The Resign Motherfucker cap
 
@@ -50,7 +50,9 @@ You tell that motherfucker to resign right now.
 
 <a href="https://www.amazon.com/Drumpf-WTF-IMPEACH-Anti-Trump-Resistance-Printing/dp/B075PG1ZQ3/ref=as_li_ss_il?ie=UTF8&qid=1510725015&sr=8-28&keywords=anti-trump&linkCode=li3&tag=lovetruthlife-20&linkId=1a8223ea78ea252eb0527718102391a4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075PG1ZQ3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B075PG1ZQ3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Wrap this [Drumpf.wtf's](https://www.drumpf.wtf/) 3x5 foot IMPEACH TRUMP flag around your neck like a cape.  You're a #Resistance superhero, and your family should be unsettled by how passionate you are.  Profits from the sales of these flags goes to the Drumpf Fund, a a hand-picked group of charitable causes that fight for civil rights and equal opportunity for all Americans in the face of this administration's dangerous policies.
+Wrap this [Drumpf.wtf's](https://www.drumpf.wtf/) 3x5 foot IMPEACH TRUMP flag around your neck like a cape.  You're a #Resistance superhero, and your family should be unsettled by how passionate you are. 
+
+Profits from the sales of these flags goes to the Drumpf Fund, a hand-picked group of charitable causes that fight for civil rights and equal opportunity for all Americans in the face of this administration's dangerous policies.
 
 ## 8. 10-Pack of Fuck Trump Car Decals
 
