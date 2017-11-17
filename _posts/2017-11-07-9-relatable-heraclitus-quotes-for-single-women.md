@@ -3,6 +3,7 @@ title: 9 Relatable Heraclitus Quotes for Single Women
 layout: post
 author: Sasha Celestial
 Image: http://lovetruth.life/images/river.jpeg
+Description: Heraclitus quotes ONLY single women will appreciate 
 ---
 
 It's such a truism to say that modern dating makes the [four trials of Psyche](https://en.wikipedia.org/wiki/Cupid_and_Psyche) look as easy as <a target="_blank" href="https://www.amazon.com/gp/product/B00NB86OYE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NB86OYE&linkCode=as2&tag=lovetruthlife-20&linkId=c9f7c61af66b2d19e5cae16bdf0d7fd2">signing up for a free trial at Audible.com,</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=am2&o=1&a=B00NB86OYE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> but it's so accurate.  Online dating, texting, Facebook, Instagram, even Amazon Key were supposed to make relationships easier, but everything's gotten infinitely more complicated.  One thing hasn't changed, though--Men!  The Greek philosopher <a target="_blank" href="https://www.amazon.com/gp/product/0142437654/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142437654&linkCode=as2&tag=lovetruthlife-20&linkId=29f3bacc236c7fba1669d56396f9e6ba">Heraclitus </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=am2&o=1&a=0142437654" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> had quite a few choice words for the uglier sex, and they still hold true today.

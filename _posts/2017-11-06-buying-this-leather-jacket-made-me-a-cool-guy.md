@@ -1,6 +1,8 @@
 ---
 title: Buying this Leather Jacket Made Me a Cool Guy
 layout: post
+author: Johnathan Livingston Peacock
+Description: My story 
 ---
 
 {% raw %} <a target="_blank"  href="https://www.amazon.com/gp/product/B00IVP0U4C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IVP0U4C&linkCode=as2&tag=lovetruthlife-20&linkId=f3fcd9497ea1f9e4910fc8770514995e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00IVP0U4C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=lovetruthlife-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=am2&o=1&a=B00IVP0U4C" width="5" height="5" border="0" alt="" style="border:none !important; margin:0px !important;" />		{%endraw %}

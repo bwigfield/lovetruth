@@ -2,7 +2,7 @@
 layout: post
 title: 5 Reasons You Should Stop Drinking Monster Energy Drinks
 image: http://lovetruth.life/images/monsterenergy.jpg
-description:  When you read this, you'll throw out Your Monster Energy Drinks immediately!
+description:  When you read this, you'll throw out your Monster Energy Drinks immediately!
 ---
 ![](/images/monsterenergy.jpg)
 Many Americans purchase Monster brand energy drinks because they're short-sighted fools.  No matter how many times you tell them that they're bad for them, they persist.  They must be stopped.  Here's why you should NEVER drink a Monster energy drink.

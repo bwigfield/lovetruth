@@ -4,7 +4,7 @@ layout: post
 author: Resistance Jack
 type: article
 image: http://lovetruth.life/images/roymoore.jpg
-description: Hey, Roy Moore, how about instead of trying to fuck REAL teenagers, you try these popular dating Sims instead.
+description: Hey, Roy Moore, instead of creeping on REAL teenagers, why not try these popular dating sims insteat?
 ---
 
 ![](/images/roymoore.jpg)

@@ -4,7 +4,7 @@ author:  Resistance Jack
 title: 8 Best Pieces of Anti-Trump Gear for Thanksgiving Dinner
 type: article
 image: http://lovetruth.life/images/ResignMotherfucker.jpg
-description: You won't want to go to your Trump-loving family's Thanksgiving dinner without these things.
+description: You won't want to go to your Trump-loving family's Thanksgiving dinner without this #Resistance swag.
 ---
 Thanksgiving is best-known as a time for spirited political discussion with your rarely-seen family members, so this season we've put together a listicle of all the best anti-Trump gear you could possibly bring to dinner and really stick it to your racist, religious, and Republican family members.
 
