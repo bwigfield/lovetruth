@@ -36,6 +36,6 @@ Rose has long been used in cosmetics and perfumes, shoving flowers up your ass i
 
 ## 5. Coconut Bath Bomb
 
-<a href="https://www.amazon.com/Heart-Aroma-Coconut-Bath-Bomb/dp/B06XS84K2P/ref=as_li_ss_il?s=beauty&ie=UTF8&qid=1511385491&sr=1-258&keywords=bath+bombs&linkCode=li3&tag=lovetruthlife-20&linkId=c404ddffc78da280d3c7cbaea00ab6b4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XS84K2P&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B06XS84K2P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/Heart-Aroma-Coconut-Bath-Bomb/dp/B06XS84K2P/ref=as_li_ss_il?s=beauty&ie=UTF8&qid=1511385491&sr=1-258&keywords=bath+bombs&linkCode=li3&tag=lovetruthlife-20&linkId=c404ddffc78da280d3c7cbaea00ab6b4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XS84K2P&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B06XS84K2P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />;
 
 Deeply moisturizing, moistening your chakras should be a technique in ANY spiritual warrior's arsenal.
