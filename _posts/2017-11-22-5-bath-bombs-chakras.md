@@ -7,7 +7,9 @@ image: http://lovetruth.life/images/pexels-photo-432698.jpeg
 description: Do some Spiritual Scrubbing with these Indigo-approved Products!
 ---
 
-Your surreal attitude is so often misunderstood, so show off the best side of yourself in these Pisces-approved cosplays!
+![](/images/pexels-photo-432698.jpeg)
+
+When life has you feeling like not such a special star in the apathetic universe, it's time to relax and recharge with some #selfcare
 
 ## 1. Galaxy Bath Bomb
 
