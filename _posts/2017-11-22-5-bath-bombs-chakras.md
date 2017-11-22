@@ -3,7 +3,7 @@ title: 5 Bath Bombs to Cleanse Your Chakras
 layout: post
 author: Kale Chakra
 type: article
-image: http://lovetruth/images/pexels-photo-432698.jpeg
+image: http://lovetruth.life/images/pexels-photo-432698.jpeg
 description: Do some Spiritual Scrubbing with these Indigo-approved Products!
 ---
 
