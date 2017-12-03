@@ -1,3 +1,4 @@
+---
 title: 5 Reasons You Drew the Fool in Your Tarot Reading
 layout: post
 author: Sasha Celestial
