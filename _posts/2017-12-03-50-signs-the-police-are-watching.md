@@ -45,6 +45,7 @@ If one clock says it’s 11:11 PM and another says it’s 11:10, you need to sta
 ## 7.	Amazon.com loads slowly when attempting to watch The Wire on Prime Video.
 
 <a href="https://www.amazon.com/The-Target/dp/B003AYJ6FS/ref=as_li_ss_il?s=movies-tv&ie=UTF8&qid=1512274142&sr=1-1&keywords=the+wire&linkCode=li2&tag=lovetruthlife-20&linkId=365cefc6d7aace2ab9086275d4eb1ba1" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003AYJ6FS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li2&o=1&a=B003AYJ6FS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 This one is subtle, but police often attempt to stop their targets from watching HBO’s The Wire by slowing down the Internet.  Many suspects watch The Wire in order to familiarize themselves with police tactics and procedures, so if it seems like someone is trying to interrupt your binge, it’s probably 5-0!
 
 [Click here to start your free trial of Amazon Prime and start watching the Wire today.](http://amzn.to/2jF9gJX)
