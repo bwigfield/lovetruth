@@ -130,7 +130,7 @@ It’s happened to us all--you’re turning in for bed and suddenly people are b
 
 ## 26.	You discover police socks in your bedroom.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OMOGaugKpzs" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.amazon.com/Real4Me-Premium-Quality-Athletic-Outdoor/dp/B078BMH6FH/ref=as_li_ss_il?ie=UTF8&qid=1512275523&sr=8-28&keywords=police+socks&linkCode=li3&tag=lovetruthlife-20&linkId=45561b4019079176abc4afbdb83f0e33" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078BMH6FH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B078BMH6FH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Have you ever found a sock that didn’t belong to you in your bedroom?  If it looks like this, it likely belongs to a law enforcement officer.  Be on guard.
 
