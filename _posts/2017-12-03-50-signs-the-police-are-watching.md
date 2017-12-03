@@ -40,6 +40,8 @@ Look around you.  If you see people pulled over for speeding, seat belt violatio
 
 ## 6.	Clocks are out of sync.
 
+![](/images/clock.jpeg)
+
 If one clock says it’s 11:11 PM and another says it’s 11:10, you need to start packing a go bag.  Clocks don’t desync for no reason.
 
 ## 7.	Amazon.com loads slowly when attempting to watch The Wire on Prime Video.
@@ -76,13 +78,15 @@ Oftentimes, the police will confiscate a suspect’s winter coat during the cour
 
 ## 14.	YouTube asks you to verify your age.
 
-YouTube would NEVER ask you how old you are, so if you get a prompt asking you to confirm your age before you can watch a video, read the fine print:  They’re asking you to confess to a crime.
+[YouTube](http://www.youtube.com) would NEVER ask you how old you are, so if you get a prompt asking you to confirm your age before you can watch a video, read the fine print:  They’re asking you to confess to a crime.
 
 ## 15.	Rabbits loiter in your yard.
 
 A little known fact is that rabbits have been trained by the police to conduct surveillance operation.  If you start to see suspicious rabbits hanging around your yard, inspect them for hidden cameras.
 
 ## 16.	Jeff Sessions appears on the news.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZM3jvlvgVw" frameborder="0" allowfullscreen></iframe>
 
 If our nation’s Attorney General and known perjurer Jeff Sessions appears on the news, he might be trying to send you a message:  You’re next.
 
@@ -100,7 +104,7 @@ No one knows why, but police are known to prefer [Wawa](https://www.wawa.com/abo
 
 ![](/images/fuzzy-dunlop.png)
 
-If you’ve ever seen HBO’s “The Wire,” you’re aware of the famous police informant Fuzzy Dunlop.  If you see him hanging around, you know shit is about to hit the fan.
+If you’ve ever seen [HBO’s “The Wire,”](http://amzn.to/2jGX4Ij) you’re aware of the famous police informant Fuzzy Dunlop.  If you see him hanging around, you know shit is about to hit the fan.
 
 ## 20.	You were arrested as a minor for a cybercrime, and now that you’re free the Secret Service is in regular communication to determine if you’re abiding by the terms of your parole.
 
@@ -114,6 +118,8 @@ If you’re constantly being tailed by five cars, it’s more likely they’re p
 
 ## 22.	You discover an acquaintance wearing a wire while enticing you to commit crimes.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWFHGqwwxcg" frameborder="0" allowfullscreen></iframe>
+
 An acquaintance who unexpectedly comes into your life wearing a wire and cajoling you to commit crimes is likely transmitting audio to the police.  Don’t be fooled!
 
 ## 23.	Your towel is unexpectedly damp.
@@ -126,6 +132,8 @@ You plug in your laptop to your TV, only to find it’s suddenly not working.  T
 
 ## 25.	Flashlights peer into your home while you’re trying to sleep.
 
+<a href="https://www.amazon.com/Maglite-Heavy-Duty-Incandescent-4-Cell-Flashlight/dp/B00002N6SI/ref=as_li_ss_il?ie=UTF8&qid=1512278180&sr=8-3&keywords=police+flashlight&linkCode=li3&tag=lovetruthlife-20&linkId=5bf934932003fb9cd32b5586c9a954a7" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00002N6SI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B00002N6SI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 It’s happened to us all--you’re turning in for bed and suddenly people are beaming flashlights through your window.  While sometimes this might be something innocent, like a home invader or child looking for his lost baseball, more often than not the police are trying to see what you’re up to.
 
 ## 26.	You discover police socks in your bedroom.
@@ -136,7 +144,9 @@ Have you ever found a sock that didn’t belong to you in your bedroom?  If it l
 
 ## 27.	You receive an Amazon Echo as a gift.
 
-The Amazon Echo is always listening to you.  Someone who gives you an Amazon Echo is setting up surveillance in your house for some reason--most likely because the fuzz is in your shit.
+<a href="https://www.amazon.com/all-new-amazon-echo-speaker-with-wifi-alexa-dark-charcoal/dp/B06XCM9LJ4/ref=as_li_ss_il?ie=UTF8&qid=1512278220&sr=8-1&keywords=amazon+echo&linkCode=li3&tag=lovetruthlife-20&linkId=0b0f82a1ac0baa80afa1a66a6653dbe0" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XCM9LJ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B06XCM9LJ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[The Amazon Echo](http://amzn.to/2jHEfoB) is always listening to you.  Someone who gives you an [Amazon Echo](http://amzn.to/2jHEfoB) is setting up surveillance in your house for some reason--most likely because the fuzz is in your shit.
 
 ## 28.	The Police’s “Every Breath You Take” frequently plays over grocery store loudspeakers.
 
@@ -166,7 +176,7 @@ Has your webcam ever come on for no reason?  [There’s a reason Mark Zuckerberg
 
 ## 33.	Men with trenchcoats and notepads trail you on the street.
 
-This doesn’t just happen in Paul Auster novels.  Someone following you and taking notes on your movements could be a private detective, but they could be a police detective.
+This doesn’t just happen in [Paul Auster novels.](http://amzn.to/2An7bfI)  Someone following you and taking notes on your movements could be a private detective, but they could be a police detective.
 
 ## 34.	An unfamiliar PT Cruiser appears in your neighborhood.
 
