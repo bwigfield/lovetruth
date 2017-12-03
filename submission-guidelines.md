@@ -26,4 +26,4 @@ If you would like a product placement article directing to your own product, ple
 
 Sending us free products for review does not guarantee, but will certainly prompt consideration of, product reviews.  Understand that our unpaid shills are free-thinking rebels who can’t be bought and won’t sell out, so they might occasionally skewer a product that fails them in highly specific scenarios.
 
-Submissions should be sent to ipsum@example.com
+Submissions should be sent to us [here.](mailto:admin@lovetruth.life)
