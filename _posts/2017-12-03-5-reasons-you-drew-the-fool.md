@@ -3,11 +3,11 @@ title: 5 Reasons You Drew the Fool in Your Tarot Reading
 layout: post
 author: Sasha Celestial
 type: article
-image: http://lovetruth.life/images/fool.jpeg
+image: http://lovetruth.life/images/fool.jpg
 description: Have you drawn the Fool in your Tarot spread?  Find out what it means here!
 ---
 
-![](/images/fool.jpeg)
+![](/images/fool.jpg)
 
 ## 1. You are about to embark on a journey.
 
