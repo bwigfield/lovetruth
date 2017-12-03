@@ -13,4 +13,4 @@ We haven't quite learned what legalese to include in a privacy policy, so check 
 
 Lovetruth.life is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-Questions and concerns should be directed to ipsum@ipsum.com
+Questions and concerns should be directed to us [here.](mailto:admin@lovetruth.life)
