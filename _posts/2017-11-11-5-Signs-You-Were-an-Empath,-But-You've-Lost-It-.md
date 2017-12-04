@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 5 Signs You Were an Empath, But You've Lost It 
+type: article
+Description: Maybe you used to be an empath, but things have changed. 
 ---
 
 We've all been there -- growing up, you lose a part of yourself that's made you special. Empaths, however, experience a special pain when they lose their powers. 

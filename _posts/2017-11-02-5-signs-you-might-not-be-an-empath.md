@@ -1,6 +1,9 @@
 ---
-title: 5 Signs You Might Not Be an Empath
+title: 5 Signs You Might Not Be an Empath image: http://lovetruth.life/images/businessman.jpg
+description: Do you have difficulty relating to other people's emotions? You might not be an empath.
+author: Sasha Celestial
 layout: post
+type: article
 ---
 
 ## 1.  You are oblivious to other people’s feelings

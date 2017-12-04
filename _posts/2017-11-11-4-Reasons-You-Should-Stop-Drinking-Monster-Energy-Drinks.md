@@ -1,5 +1,6 @@
 ---
 layout: post
+type: article
 title: 5 Reasons You Should Stop Drinking Monster Energy Drinks
 image: http://lovetruth.life/images/monsterenergy.jpg
 description:  When you read this, you'll throw out your Monster Energy Drinks immediately!
