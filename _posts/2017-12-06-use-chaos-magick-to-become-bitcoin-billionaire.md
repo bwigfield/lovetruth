@@ -7,7 +7,7 @@ image: http://lovetruth.life/images/bitcoin.jpg
 description: Get out your wizard robes, because this handy guide is going to show you how to use chaos magick to become a Bitcoin millionaire
 ---
 
-![](images/bitcoin.jpg)
+![](/images/bitcoin.jpg)
 
 If you’re like most short-sighted, neophobic Americans, you’re probably looking at the recent surge in Bitcoin prices and salivating like a jackass.  Well, quit drooling and get out your wizard robes, because this handy guide is going to show you how to use chaos magick to become a Bitcoin millionaire.  Your bank vault will be bursting before this bubble does.
 
