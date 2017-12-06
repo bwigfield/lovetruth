@@ -68,6 +68,6 @@ All good magick requires a good banishing ritual.  My personal favorite is the L
 
 ## 9.  Wait.
 
-![](clock.jpeg)
+![](/images/clock.jpeg)
 
 Cast this ritual we have performed from your thoughts--after all, one must not lust after results--and resume your normal routine.  Occasionally, you will see emergent signs and synchronicity in the world--Bitcoin on the news, loose change on the ground, flowers blooming, gas prices rising.  Take note of these.  Provided you have done this ritual with purity of intention, sacrificed an appropriate amount of coin to our magick cauldron, and have received the blessings of the gods of wealth, you will find that your Bitcoin holdings will continue to grow at a rate that, if left untouched, might one day equal a million dollars.
