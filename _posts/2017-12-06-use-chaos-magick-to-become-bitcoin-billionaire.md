@@ -24,7 +24,8 @@ Place a portion of your Bitcoin into our magick cauldron.  Remember, all magick 
 
 The address of our cauldron is: 
 
-15J5TjdPTi6fRdUqMD9Nx5ipNp17GcUYRL
+[15J5TjdPTi6fRdUqMD9Nx5ipNp17GcUYRL](https://blockexplorer.com/address/15J5TjdPTi6fRdUqMD9Nx5ipNp17GcUYRL)
+![](/images/donatebtc.png)
 
 ## 3.  Put on your wizard robe.
 
