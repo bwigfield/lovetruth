@@ -65,7 +65,7 @@ When you reach your peak gnosis, release the energy into the blockchain by shout
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d48Ldk-TPn0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-All good magick requires a good banishing ritual.  My personal favorite is the Lesser Banishing Ritual of the Pentagram, but Peter Carroll in Liber Null suggests a hearty, maniacal laugh might do just as well.  
+All good magick requires a good banishing ritual.  My personal favorite is the Lesser Banishing Ritual of the Pentagram, but [Peter Carroll's seminal work on Chaos Magick, [Liber Null & Psychonaut,](http://amzn.to/2ko0Wlz) suggests a hearty, maniacal laugh might do just as well.  
 
 ## 9.  Wait.
 
