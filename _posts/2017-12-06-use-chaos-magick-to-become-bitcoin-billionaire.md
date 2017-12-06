@@ -29,6 +29,7 @@ The address of our cauldron is:
 ## 3.  Put on your wizard robe.
 
 <a href="https://www.amazon.com/Ourlove-Fashion-Unisex-Cosplay-Costume/dp/B0739QY4YH/ref=as_li_ss_il?ie=UTF8&qid=1512445464&sr=8-3&keywords=wizard+robe&th=1&linkCode=li3&tag=lovetruthlife-20&linkId=7f843f2ea2031f37b90ef308ef686953" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0739QY4YH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lovetruthlife-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=lovetruthlife-20&l=li3&o=1&a=B0739QY4YH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 To perform magick, a man must dress like a magician.  If you can’t be bothered to wear a proper wizard robe, you will never become a Bitcoin millionaire.
 
 ## 4. Put on your wizard hat.
